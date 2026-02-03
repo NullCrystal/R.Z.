@@ -1,0 +1,7 @@
+{
+  "name": "Amar Weather & Earth",
+  "description": "A beautiful, calm weather and earthquake monitoring app specifically designed for Bangladesh, featuring real-time data and felt-intensity alerts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
